@@ -91,7 +91,7 @@ bool onAtStart = true;
 
 In HomeAssistant, turn the LED on and the click on the icon to bring up additional controls. The LED has 3 color modes, COLD ONLY, COLD & WARM and WARM ONLY. Although the UI has a slider, it is actually being used as a switch. In automations, a color value from 154 to 269 will turn on COLD LEDS only, a value from 270 to 384 will turn both COLD and WARM LEDS and finally a value from 385 to 500 will turn the on the WARM LEDS only. Use the Color slider to adjust.
 
-![alt Controls](images/ha_controls.PNG "Controls")
+![alt Controls](images/ha_controls.JPG "Controls")
 
 Use the brightness slider to adjust brightness levels from 1 to 255. Slide brightness down to 0 to also turn off the LED. In automations, just set a brightness level, there is no need to turn on the LEDS as well as any brightness level over 0 will turn on the LED as well. 
 
