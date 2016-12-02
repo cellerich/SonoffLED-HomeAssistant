@@ -1,0 +1,12 @@
+- platform: mqtt
+  name: "Living Room LED"
+  command_topic: "home/sonoff_led/living_room"
+  state_topic: "home/sonoff_led/living_room/stat"
+  brightness_command_topic: "home/sonoff_led/living_room/brightness"
+  brightness_state_topic: "home/sonoff_led/living_room/brightness/stat"
+  color_temp_command_topic: "home/sonoff_led/living_room/color"
+  color_temp_state_topic: "home/sonoff_led/living_room/color/stat"
+  qos: 0
+  payload_on: "ON"
+  payload_off: "OFF"
+  optimistic: false
