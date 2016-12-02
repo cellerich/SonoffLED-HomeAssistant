@@ -108,7 +108,7 @@ Make sure to set this to false when you've finished otherwise there will be a de
 
 ## 8. HomeAssistant Community Discussion Forum
 
-For further information and to join the discussion for this firmware please go to the HomeAssistant Community Discussion Forum [ITEAD Sonoff Wireless Smart Switch](https://community.home-assistant.io/t/sonoff-homeassistant-alternative-firmware-for-sonoff-switches-for-use-with-mqtt-ha/2332). I would be happy to answer any of your queries there.
+For further information and to join the discussion for this firmware please go to the HomeAssistant Community Discussion Forum [SonoffLED-HomeAssistant](https://community.home-assistant.io/t/sonoffled-homeassistant/7025). I would be happy to answer any of your queries there.
 
 ## 9. Conclusion
 
